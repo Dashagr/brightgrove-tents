@@ -1,0 +1,4 @@
+@mixin sectionBackground($padding-top, $padding-bottom) {
+    border-bottom: 3px solid $light-color;
+    padding: $padding-top 0 $padding-bottom 0;
+}
