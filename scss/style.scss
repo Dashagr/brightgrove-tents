@@ -445,6 +445,8 @@ main {
     padding: .1em .35em;
     bottom: 2.7em;
     right: 1em;
+    box-shadow: 0 0 7px rgb(0 0 0 / 30%);
+    -webkit-box-shadow: 0 0 7px rgb(0 0 0 / 30%);
 
     i {
         color: $light-color;
